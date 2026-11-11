@@ -8,7 +8,7 @@ Currently strengthening my engineering skills in Java, automation testing, Linux
 
 ### 🛠️ Technical Skills
 
-**Programming:** Java, JavaScript, SQL
+**Programming:** Java, SQL
 
 **Automation Testing:** Selenium WebDriver, TestNG, Maven, Page Object Model (POM)
 
@@ -53,7 +53,7 @@ Currently strengthening my engineering skills in Java, automation testing, Linux
 
 ### 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vinay-dudyala-4b61181a4/)
 - GitHub: [@vinay347d](https://github.com/vinay347d)
 - Email: vinaydudyala772@gmail.com
 
