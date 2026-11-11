@@ -39,9 +39,6 @@ Currently strengthening my engineering skills in Java, automation testing, Linux
 
 ### ☁️ Currently Learning
 
-- Advanced Java and automation framework development
-- Linux and networking fundamentals
-- AWS Cloud Services
 - Docker and CI/CD
 - Cloud Infrastructure and DevOps fundamentals
 
