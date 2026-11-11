@@ -1,6 +1,6 @@
 # Hi, I'm Vinay Dudyala 👋
 
-### Software Testing | Java | Automation | Exploring Cloud & DevOps
+### BE EXTC Graduate | Java | Core Java | OOP | DSA | SQL | MySQL | Spring Boot | Spring Framework | Selenium WebDriver | TestNG | Maven | Page Object Model (POM) | PageFactory | TestNG Listeners | Extent Reports | Postman | REST API Testing | JavaScript | JSON | Newman | Apache JMeter | Performance Testing | JDBC | Git | GitHub | Jenkins | Jira | IntelliJ IDEA | Eclipse | AWS Cloud Essentials | Linux Essentials | SDLC | STLC | Agile | Manual Testing | Automation Testing | API Testing | Exploring Cloud Computing, DevOps, Docker, Kubernetes & SRE
 
 BE Electronics & Telecommunication Engineering graduate interested in building reliable software, test automation frameworks, API testing and cloud technologies.
 
